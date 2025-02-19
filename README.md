@@ -6,6 +6,6 @@ le projet contient :
 -un level de labyrinth
 -un menu de fin et de debut de jeu
 -du sound design d'ambiance
--screamer (son et image si attraper par le monstre
+-screamer (son et image si attraper par le monstre)
 
 Bonne découverte !
