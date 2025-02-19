@@ -9,3 +9,4 @@ le projet contient :
 -screamer (son et image si attraper par le monstre)
 
 Bonne découverte !
+Projet crée par Nathane TAIEB
